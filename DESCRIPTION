@@ -1,0 +1,7 @@
+Package: finalizer
+Type: Package
+Title: Test reg.finalizer in a package
+Version: 0.1.0
+Author: Yihui Xie
+Description: reg.finalizer() does not seem to work when an R session is ended.
+License: MIT
